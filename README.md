@@ -22,36 +22,15 @@
 
 ## Folder Structure :point_down:
 ```bash
-simple-covid-tracker
+flutter-mycard-ui
        ├── assets
-       |     ├── 2.0x
-       |     ├── 3.0x
-       |     ├── fonts
-       |     |    └── MBW.otf
-       |     ├── count.png
-       |     ├── death.png
-       |     ├── fever.png
-       |     ├── patient.png
-       |     └── suspect.png
-       ├── lib
-       |    ├── app
-       |    |    ├── repositries
-       |    |    |       ├── data_repositries.dart
-       |    |    |       └── endpointsdatas.dart
-       |    |    ├── services
-       |    |    |       ├── .gitignore
-       |    |    |       ├── api.dart
-       |    |    |       ├── app_services.dart
-       |    |    |       ├── data_cache_service.dart
-       |    |    |       └── endpointdata.dart
-       |    |    └── ui
-       |    |         ├── dashboard.dart
-       |    |         ├── endpoint.dart
-       |    |         ├── last_updated_date.dart
-       |    |         └── show_alert_dialog.dart
-       |    └── main.dart
-       └── rest_api
-              └── ncov_2019_api.http
+       |      ├── fonts
+       |      |     ├── PR.ttf
+       |      |     └── SSPL.ttf
+       |      └── images
+       |            └── me.jpeg
+       └── lib
+              └── main.dart
 ```
      
 ## Making :point_down:
