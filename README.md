@@ -12,7 +12,7 @@
 
 ## About :point_down: 
 It is a simple flutter ui which shows Biswarup Bhattacharjee's(my) profile which shows my educational profile  and my contact informations. Here we can see my profile picture, phone number, email id, college name, enrolment number and registration number of btech.
-<span style="font-family: 'Lucida Console';">ole babale</span>
+<span style="font-family: 'Algerian'">ole babale</span>
 ## APP DOWNLOAD LINK : :point_right: <a href="https://github.com/biswa2210/flutter-myCard-ui/raw/master/Biswa's_Card_base.apk" download>Click here to download</a> 
 
 ## Purpose :point_down:
