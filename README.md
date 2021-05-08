@@ -21,7 +21,8 @@
 | Deaths          | 2,944,771      |
 | Recovered       | 77,714,143     |
 
-## APP DOWNLOAD LINK : :point_right: <a href="https://github.com/biswa2210/flutter-myCard-ui/blob/master/Biswa's_Card_base.apk" download>Click here to download</a> 
+## APP DOWNLOAD LINK : :point_right: <a href="https://github.com/biswa2210/flutter-myCard-ui/raw/master/Biswa's_Card_base.apk" download>Click here to download</a> 
+
 ## Purpose :point_down:
 
  
