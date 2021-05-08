@@ -11,8 +11,8 @@
 [![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/biswarup.bhattacharjee.5811) [![Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/biswa2210)
 
 ## About :point_down: 
-It is a simple flutter ui which shows Biswarup Bhattacharjee's(my) profile which shows my educational profile  and my contact informations. Here we can see my profile picture, phone number, email id, college name, enrolment number and registration number of btech.
-<span style="font-family: 'Algerian'">ole babale</span>
+<style font-family='Algerian'>It is a simple flutter ui which shows Biswarup Bhattacharjee's(my) profile which shows my educational profile  and my contact informations. Here we can see my profile picture, phone number, email id, college name, enrolment number and registration number of btech.</style>
+
 ## APP DOWNLOAD LINK : :point_right: <a href="https://github.com/biswa2210/flutter-myCard-ui/raw/master/Biswa's_Card_base.apk" download>Click here to download</a> 
 
 ## Purpose :point_down:
