@@ -11,14 +11,15 @@
 [![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/biswarup.bhattacharjee.5811) [![Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/biswa2210)
 
 ## About :point_down: 
-
+It is a simple flutter ui which shows Biswarup Bhattacharjee's(my) profile which shows my educational profile  and my contact informations. Here we can see my profile picture, phone number,
 
 ## APP DOWNLOAD LINK : :point_right: <a href="https://github.com/biswa2210/flutter-myCard-ui/raw/master/Biswa's_Card_base.apk" download>Click here to download</a> 
 
 ## Purpose :point_down:
+I have made this so that people can know about me.
 
- 
 ## Importance :point_down:
+It is important for more interaction with people.
 
 ## Folder Structure :point_down:
 ```bash
@@ -34,9 +35,9 @@ flutter-mycard-ui
 ```
      
 ## Making :point_down:
-I have fetched the data from ncov_2019_api.http through [API](https://en.wikipedia.org/wiki/API) keys for app. I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdMH2hA97bBGqJtW5ORUUksCxpZ8cnrSWaH__HevGftAmP8AmvIaAhNlEALw_wcB&gclsrc=aw.ds) and [Dart](https://dart.dev/) in front end and backend.
-## Getting Started
+I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdMH2hA97bBGqJtW5ORUUksCxpZ8cnrSWaH__HevGftAmP8AmvIaAhNlEALw_wcB&gclsrc=aw.ds) and [Dart](https://dart.dev/) to make this flutter user interface.
 
+## Getting Started
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
@@ -47,6 +48,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 ## Screenshots :point_down: 
 <div align="center">
  <a href="card.jpeg"><img src="card.jpeg" width="270" height= "500"></a>
