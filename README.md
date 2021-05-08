@@ -12,14 +12,6 @@
 
 ## About :point_down: 
 
-## Info Table Example :point_down:
-| Types of Cases  |      Data      |
-| -------------   | -------------  |
-| Cases           | 136,500,769    |
-| Suspected Cases | 0              |
-| Confirmed Cases | 136,500,769    |
-| Deaths          | 2,944,771      |
-| Recovered       | 77,714,143     |
 
 ## APP DOWNLOAD LINK : :point_right: <a href="https://github.com/biswa2210/flutter-myCard-ui/raw/master/Biswa's_Card_base.apk" download>Click here to download</a> 
 
