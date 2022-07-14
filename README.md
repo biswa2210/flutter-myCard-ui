@@ -18,6 +18,10 @@
 
 It is a simple flutter ui which shows Biswarup Bhattacharjee's(my) profile which shows my educational profile  and my contact informations. Here we can see my profile picture, phone number, email id, college name, enrolment number and registration number of btech.
 
+## FLUTTER MY CARD DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=VFGb0V6QNhw&list=PL0lbDlMJ1h4hiexZec5cbgw8a3F8dE1HH&index=4">Click here to watch</a>
+
+## FLUTTER PLAYLIST: :point_right: <a href="https://www.youtube.com/playlist?list=PL0lbDlMJ1h4hiexZec5cbgw8a3F8dE1HH">Click here to watch</a>
+
 ## APP DOWNLOAD LINK : :point_right: <a href="https://github.com/biswa2210/flutter-myCard-ui/raw/master/Biswa's_Card_base.apk" download>Click here to download</a> 
 
 ## Purpose :point_down:
